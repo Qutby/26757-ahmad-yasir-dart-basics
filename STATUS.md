@@ -15,10 +15,11 @@
 - D2: code written and runs
 - E: written
 - F: momo_sim.dart written
+- G: debuging log
 
 ## In progress
 - nothing
- 
+
 
 ## Stuck on
 - nothing
