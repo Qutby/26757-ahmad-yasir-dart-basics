@@ -17,8 +17,8 @@
 - F: momo_sim.dart written
 
 ## In progress
-- Checking all outputs against my PDF answers
-- G: debugging log, getting real error messages
+- nothing
+ 
 
 ## Stuck on
-- - G: debugging log, I need real error messages from my first drafts
+- nothing
