@@ -21,4 +21,4 @@
 - G: debugging log, getting real error messages
 
 ## Stuck on
-- Nothing
+- - G: debugging log, I need real error messages from my first drafts
